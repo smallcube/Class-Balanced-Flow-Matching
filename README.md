@@ -5,6 +5,7 @@ Try to train Flow Matching under long-tailed data distribution
 # 2026-09-18 下一步工作安排：
 （1）在ImageNet-Lt 上跑通 Flow Matching，包括：classifier-guidance和classifier-free两种方案，以及两种方案对应的基准FiD和IS。
 （2）Classifier-guidance= unconditional Flow Matching + Classifier
+（3）Classifier-free = conditional Flow Matching + Text Encoder (CLIP)
 
 
 classifier-free guidance方案中可供优化的点：
