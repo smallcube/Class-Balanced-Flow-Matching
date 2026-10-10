@@ -2,6 +2,13 @@
 Try to train Flow Matching under long-tailed data distribution
 
 
+
+# 2026-10-10 下一步共组哦安排：
+（1）急迫任务：Flow Matching在ImageNet-LT上的标准FID和IS等指标；
+（2）如果算力告警，可以使用CIFAR-100-LT进行基础实验；
+（3）确保Classifier-free方案能够跑出一个可用的生成模型；
+
+
 # 2026-09-18 下一步工作安排：
 （1）在ImageNet-Lt 上跑通 Flow Matching，包括：classifier-guidance和classifier-free两种方案，以及两种方案对应的基准FiD和IS。
 （2）Classifier-guidance= unconditional Flow Matching + Classifier
