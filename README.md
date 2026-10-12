@@ -6,6 +6,29 @@ Try to train Flow Matching under long-tailed data distribution
 
 (2) CVPR 25-[Image Generation Diversity Issues and How to Tame Them](https://www.openaccess.thecvf.com/content/CVPR2025/papers/Dombrowski_Image_Generation_Diversity_Issues_and_How_to_Tame_Them_CVPR_2025_paper.pdf)
 
+(3) ECCV 26-[Contrastive Conditional–Unconditional Alignment for Long-Tailed Diffusion Model](https://link.springer.com/chapter/10.1007/978-3-032-37520-9_23)
+
+(4) NIPS 25-[CORAL: Disentangling Latent Representations in Long-Tailed Diffusion](https://proceedings.neurips.cc/paper_files/paper/2025/file/a32539cb16274581a17e679f6046f4bf-Paper-Conference.pdf)
+
+(5) ICML 25-[Boost-and-skip: a simple guidance-free diffusion for minority generation](https://arxiv.org/pdf/2502.06516)
+
+(6) CVPR 25-[Image Generation Diversity Issues and How to Tame Them](https://www.openaccess.thecvf.com/content/CVPR2025/papers/Dombrowski_Image_Generation_Diversity_Issues_and_How_to_Tame_Them_CVPR_2025_paper.pdf)
+
+(7) TIP 24-[Rethinking Noise Sampling in Class-Imbalanced Diffusion Models](https://drive.google.com/file/d/1qwxC48t4i7JUM9Yn2odepdf5zGrma_DK/view?pli=1)
+
+(8) ICLR 24-[LABEL-NOISE ROBUST DIFFUSION MODELS](https://proceedings.iclr.cc/paper_files/paper/2024/file/911ac8327812e919f97d36f4d08fd5f4-Paper-Conference.pdf)
+
+(9) ICLR 26-[IMPROVING DIFFUSION MODELS FOR CLASSIMBALANCED TRAINING DATA VIA CAPACITY MANIPULATION](https://openreview.net/pdf?id=wSGle6ag5I)
+
+(10) CVPR25-[Minority-Focused Text-to-Image Generation via Prompt Optimization](https://openaccess.thecvf.com/content/CVPR2025/papers/Um_Minority-Focused_Text-to-Image_Generation_via_Prompt_Optimization_CVPR_2025_paper.pdf)
+
+(11) ICLR 24-[Don't Play Favorites: Minority Guidance for Diffusion Models](https://proceedings.iclr.cc/paper_files/paper/2024/file/5dc387343572bb95f264e05b66e83951-Paper-Conference.pdf)
+
+(12) ICLR 25-[TFG-Flow: Training-free Guidance in Multimodal Generative Flow](https://proceedings.iclr.cc/paper_files/paper/2025/file/aca042ae71283d25b3d063fc011db9e8-Paper-Conference.pdf)
+
+(13) ICML 26-[Calibrating Generative Models to Distributional Constraints](https://openreview.net/pdf?id=5yXKRaNI2R)
+
+(14)
 
 
 # 2026-10-10 下一步工作安排：
