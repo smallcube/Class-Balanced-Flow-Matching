@@ -3,7 +3,7 @@ Try to train Flow Matching under long-tailed data distribution
 
 
 
-# 2026-10-10 下一步共组哦安排：
+# 2026-10-10 下一步工作安排：
 （1）急迫任务：Flow Matching在ImageNet-LT上的标准FID和IS等指标；
 （2）如果算力告警，可以使用CIFAR-100-LT进行基础实验；
 （3）确保Classifier-free方案能够跑出一个可用的生成模型；
